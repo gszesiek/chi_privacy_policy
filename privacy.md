@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-gszesiek built the chihuahua app as a Free app. This SERVICE is provided by gszesiek at no cost and is intended for use as is.
+gszesiek built the [chihuahua](https://play.google.com/store/apps/details?id=com.gszesiek.chihuahua) app as a Free app. This SERVICE is provided by gszesiek at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
